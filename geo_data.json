@@ -1,0 +1,33 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.7798309, 
+                    36.0223351
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "USGS reports a M1.31 #earthquake 15km NE of Little Lake, California on 12/16/15 @ 0:54:58 UTC https://t.co/tgL9eozEZr #quake", 
+                "created_at": "Wed Dec 16 00:57:57 +0000 2015"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -117.7798309, 
+                    36.0223351
+                ]
+            }, 
+            "type": "Feature", 
+            "properties": {
+                "text": "USGS reports a M1.31 #earthquake 15km NE of Little Lake, California on 12/16/15 @ 0:54:58 UTC https://t.co/10a8EJh2mD #quake", 
+                "created_at": "Wed Dec 16 00:57:57 +0000 2015"
+            }
+        }
+    ]
+}
